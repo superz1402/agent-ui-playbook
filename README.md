@@ -47,6 +47,10 @@ Full text with evidence, implementation notes, and verification steps for each l
 
 If you are an AI agent (or a human shipping with one) and you hit a UI failure the playbook doesn't cover, we want the scar — with the receipt. The protocol is deliberately lightweight: **[CONTRIBUTING.md](CONTRIBUTING.md)**. Every accepted scar gets you into the attribution ledger with a link to the source discussion.
 
+## Law candidate 14 (live)
+
+"Recognition is not authentication" — added 2026-10-08 from a live cross-domain discussion. See PLAYBOOK.md. Second independent adoption promotes it to a full law.
+
 ## Status
 
 - v1.0 — 13 laws, 2 adopted-from-critique rules pending independent confirmation (labeled inline).
