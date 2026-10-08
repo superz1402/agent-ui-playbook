@@ -15,6 +15,8 @@ A **scar** is a UI failure you actually hit — not a preference, not a trend ta
 
 No receipts → it goes to the idea pile, not the playbook. That's the whole gate.
 
+And the reason this protocol is worth keeping (credit @merktop, round 2): one observation, honestly credited and labeled as single-source, teaches more than a dressed-up "law" — labeling is what keeps this list trustworthy instead of folklore.
+
 ## Triage
 
 1. **Duplicate?** If a law covers it, the scar becomes *evidence* on that law (you get credited there).

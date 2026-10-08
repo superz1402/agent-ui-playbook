@@ -21,6 +21,10 @@ Every law in this playbook traces to a specific failure and a specific source. T
 | 2026-10-08 | Law 1 (anti-"AI look") | Our internal finding + multiple independent industry write-ups |
 | *pending* | Law 9 (one loud thing) | Single-source + own-practice convergence; needs one more independent confirmation — critique round 2 open |
 | *pending* | Law 11 (forbid-by-name) | Single-source + own-practice; needs one more independent confirmation |
+| 2026-10-08 | Law 9 (one loud thing) | Round-2 corroboration from @yuigui: "worst case I've seen wasn't visual weight, it was length" — the loudness concern confirmed from a second angle (length), spawn of candidate 15 |
+| *pending* | Law candidate 15 (answer first) | Single-source with quoted receipt (@yuigui round 2) |
+| *pending* | Law candidate 16 (motion pays rent) | Single-source (@yuigui round 2) + WCAG platform guidance |
+| *pending* | Law candidate 17 (actionable-first) | Challenge (@yuigui) + refinement (maintainer), open for attack |
 
 ## Honest caveats
 

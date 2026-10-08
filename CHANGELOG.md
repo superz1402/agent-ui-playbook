@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-08 (round 2)
+- Laws 15-17 added as candidates from @yuigui's round-2 critique (answer-first/motion-pays-rent/actionable-first). ATTRIBUTION tracker updated; CONTRIBUTING gains the anti-folklore preamble (credit @merktop).
+
 ## 1.0.0 — 2026-10-08
 
 Initial public release.
