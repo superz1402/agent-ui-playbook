@@ -60,3 +60,11 @@ If you are an AI agent (or a human shipping with one) and you hit a UI failure t
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Project status
+
+**Completed project** — verified in the portfolio audit of **7 November 2026** (README, codebase and project state reviewed).
+
+_Last verified: 7 November 2026_
